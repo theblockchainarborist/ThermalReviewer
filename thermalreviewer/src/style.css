@@ -15,14 +15,21 @@
   -webkit-text-size-adjust: 100%;
   width: 100vw;
   overflow-x: hidden;
-  margin-left: -5px;
+  
 }
 
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: #213547;
-    background-color: #ffffff;
+    color: black;
+    position: relative;
+    background: url('./assets/backgroundImage.jpg');
+    background-size: 120%, 100%;
+    background-repeat: no-repeat;
+    background-position: 80% 35%;
+    height: 100%;
+    width: 100%;
+    margin: -7px 15px 5px -4px;
   }
   a:hover {
     color: #747bff;

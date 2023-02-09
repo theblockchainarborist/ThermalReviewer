@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Pulsar",
+        "imgPath": "/brandLogos/pulsar-logo.jpg",
+        "productTypes": {
+            "scopes": true,
+            "binoculars": true,
+            "monoculars": true
+        }
+    },
+    {
+        "id": 2,
+        "name": "AGM",
+        "imgPath": "/brandLogos/AGM_logo.png",
+        "productTypes": {
+            "scopes": true,
+            "binoculars": false,
+            "monoculars": true
+        }
+    },
+    {
+        "id": 3,
+        "name": "ATN",
+        "imgPath": "/brandLogos/ATN_logo.png",
+        "productTypes": {
+            "scopes": true,
+            "binoculars": false,
+            "monoculars": true
+        }
+    },
+    {
+        "id": 4,
+        "name": "Trijicon",
+        "imgPath": "/brandLogos/trijicon_logo.png",
+        "productTypes": {
+            "scopes": true,
+            "binoculars": false,
+            "monoculars": true
+        }
+    },
+    {
+        "id": 5,
+        "name": "FLIR",
+        "imgPath": "/brandLogos/FLIR_logo.png",
+        "productTypes": {
+            "scopes": true,
+            "binoculars": false,
+            "monoculars": true
+        }
+    },
+    {
+        "id": 6,
+        "name": "GOYOJO",
+        "imgPath": "/brandLogos/goyojo_logo.png",
+        "productTypes": {
+            "scopes": false,
+            "binoculars": true,
+            "monoculars": false
+        }
+    }
+]
+

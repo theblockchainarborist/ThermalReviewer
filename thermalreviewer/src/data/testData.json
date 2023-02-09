@@ -1,0 +1,407 @@
+{
+    "scopes": [
+                {
+                    "id": 100,
+                    "brand": "Pulsar",
+                    "model": "Talion XQ38",
+                    "price": "$2,499.97",
+                    "bestSeller": false,
+                    "stats": {
+                        "microbolometerResolution": "384x288",
+                        "displayType": "AMOLED 1024X768",
+                        "objectiveLensInMM": "undefined",
+                        "frameRateHz": 50,
+                        "magnificationMin": 2.5,
+                        "magnificationMax": 10,
+                        "detectionRangeYrds": 1476,
+                        "windAndElevationAdjustmentRangeMOA": "undefined",
+                        "operatingTemperatureFMin": -13,
+                        "operatingTemperatureFMax": 122,
+                        "weightOZ": 24.6,
+                        "mount": "undefined",
+                        "waterproofRating": "IPX7"
+                    },
+                    "batteries": {
+                        "builtIn": false,
+                        "swappable": true,
+                        "type": "APS5",
+                        "runtime": "undefined",
+                        "numberOfBatteries": 1
+                    },
+                    "images": [
+                        "https://m.media-amazon.com/images/I/51HVYW593xL._AC_SL1000_.jpg", 
+                        "https://m.media-amazon.com/images/I/61WrEC1wzCL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61IpWsaxigL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61b4D0--WBL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51FJqWtfAuL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51mrQ0qgn1L._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/5199PAXFHOL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51b+iFuDsTL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/514X4YbyfCL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51gwn0JHcBL._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41fyWGNjCML._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41K8klmsa1L._AC_SL1000_.jpg"
+                    ],
+                    "pageContent": {
+                        "header": "A great riflescope!",
+                        "paragraphs": [
+                            "paragraph1",
+                            "paragraph2",
+                            "paragraph3",
+                            "paragraph4"
+                        ],
+                        "closing": "closing here yall"
+                    },
+                    "affiliateLink": "https://www.amazon.com/Pulsar-Talion-Thermal-Riflescope-Mount/dp/B0B7CJPMRG?crid=3R7BG50X3UWOL&keywords=Pulsar+Talion+xq38&qid=1675941685&s=sporting-goods&sprefix=pulsar+talion+xq38%2Csporting%2C89&sr=1-1&linkCode=ll1&tag=thermalrevi0d-20&linkId=c8b7cb5d19563c36ed863ca99433277d&language=en_US&ref_=as_li_ss_tl"
+                },
+                {
+                    "id": 101,
+                    "brand": "Pulsar",
+                    "model": "Thermion 2 XQ38",
+                    "price": "$4,692.48",
+                    "bestSeller": true,
+                    "stats": {
+                        "microbolometerResolution": "384x288",
+                        "displayType": "AMOLED 1024X768",
+                        "objectiveLensInMM": "undefined",
+                        "frameRateHz": 50,
+                        "magnificationMin": 2.5,
+                        "magnificationMax": 10,
+                        "detectionRangeYrds": 1476,
+                        "windAndElevationAdjustmentRangeMOA": "undefined",
+                        "operatingTemperatureFMin": -13,
+                        "operatingTemperatureFMax": 122,
+                        "weightOZ": 26.45,
+                        "mount": "30mm Scope Rings",
+                        "waterproofRating": "IPX7"
+                    },
+                    "batteries": {
+                        "builtIn": true,
+                        "swappable": true,
+                        "type": "APS5",
+                        "runtime": "undefined",
+                        "numberOfBatteries": 2
+                    },
+                    "images": [
+                        "https://m.media-amazon.com/images/I/510ExFvrtOS._AC_SL1000_.jpg", 
+                        "https://m.media-amazon.com/images/I/51s7xlcLT8S._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/5131BEfN5VS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51oDkWps8xS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41-XGLK3SXS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41dB7wkjgSS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/619-dTR0Y2S._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61Mnf++sioS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51oHJGshDBS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61HcIVAMoFS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/4178BKdJFgS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61aWQSoY9sS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41oIXys0GlS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41fMsSmggmS._AC_SL1000_.jpg"
+                    ],
+                    "pageContent": {
+                        "header": "A great riflescope!",
+                        "paragraphs": [
+                            "paragraph1",
+                            "paragraph2",
+                            "paragraph3",
+                            "paragraph4"
+                        ],
+                        "closing": "closing here yall"
+                    },
+                    "affiliateLink": "https://www.amazon.com/dp/B093X2BLGS?&linkCode=ll1&tag=thermalrevi0d-20&linkId=93e82b6e8cf9061baf52cc8e900ec57f&language=en_US&ref_=as_li_ss_tl"
+
+                },
+                {
+                    "id": 102,
+                    "brand": "Pulsar",
+                    "model": "Thermion 2 XQ50",
+                    "price": "$4,692.48",
+                    "bestSeller": false,
+                    "stats": {
+                        "microbolometerResolution": "384x288",
+                        "displayType": "AMOLED 1024X768",
+                        "objectiveLensInMM": "undefined",
+                        "frameRateHz": 50,
+                        "magnificationMin": 3.5,
+                        "magnificationMax": 14,
+                        "detectionRangeYrds": 1968,
+                        "windAndElevationAdjustmentRangeMOA": "undefined",
+                        "operatingTemperatureFMin": -13,
+                        "operatingTemperatureFMax": 122,
+                        "weightOZ": 31.7,
+                        "mount": "30mm Scope Rings",
+                        "waterproofRating": "IPX7"
+                    },
+                    "batteries": {
+                        "builtIn": true,
+                        "swappable": true,
+                        "type": "APS5",
+                        "runtime": "undefined",
+                        "numberOfBatteries": 2
+                    },
+                    "images": [
+                        "https://m.media-amazon.com/images/I/510ExFvrtOS._AC_SL1000_.jpg", 
+                        "https://m.media-amazon.com/images/I/51s7xlcLT8S._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/5131BEfN5VS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51oDkWps8xS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41-XGLK3SXS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41dB7wkjgSS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/619-dTR0Y2S._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61Mnf++sioS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51oHJGshDBS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61HcIVAMoFS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/4178BKdJFgS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/61aWQSoY9sS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41oIXys0GlS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41fMsSmggmS._AC_SL1000_.jpg"
+                    ],
+                    "pageContent": {
+                        "header": "A great riflescope!",
+                        "paragraphs": [
+                            "paragraph1",
+                            "paragraph2",
+                            "paragraph3",
+                            "paragraph4"
+                        ],
+                        "closing": "closing here yall"
+                    },
+                    "affiliateLink": "https://www.amazon.com/Pulsar-Thermion-XQ50-Thermal-Riflescope/dp/B0935BY239?crid=1A40SKXDHJ849&keywords=pulsar%2Bthermion%2Bxq50&qid=1675943454&s=sporting-goods&sprefix=pulsar%2Bthermion%2Bxp50%2Csporting%2C79&sr=1-4&th=1&linkCode=ll1&tag=thermalrevi0d-20&linkId=3c0f637ff2ff7e9eb2a9863b99ecfa82&language=en_US&ref_=as_li_ss_tl"
+                },
+                {
+                    "id": 103,
+                    "brand": "Pulsar",
+                    "model": "Thermion 2 XP50",
+                    "price": "$5,481.21",
+                    "bestSeller": false,
+                    "stats": {
+                        "microbolometerResolution": "640x480",
+                        "displayType": "AMOLED 1024X768",
+                        "objectiveLensInMM": "undefined",
+                        "frameRateHz": 50,
+                        "magnificationMin": 2,
+                        "magnificationMax": 16,
+                        "detectionRangeYrds": 1968,
+                        "windAndElevationAdjustmentRangeMOA": "undefined",
+                        "operatingTemperatureFMin": -13,
+                        "operatingTemperatureFMax": 122,
+                        "weightOZ": 31.7,
+                        "mount": "30mm Scope Rings",
+                        "waterproofRating": "IPX7"
+                    },
+                    "batteries": {
+                        "builtIn": true,
+                        "swappable": true,
+                        "type": "APS5",
+                        "runtime": "undefined",
+                        "numberOfBatteries": 2
+                    },
+                    "images": [
+                        "https://m.media-amazon.com/images/I/51oiKTTMjZS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/515TGcKQaJS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41fC4I0b1oS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51lz0SLBCuS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51eM5KBrTxS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51CIKNENMKS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51cyJMv6BzS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/417xxa9cKuS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51dhjmFLJtS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/516WGX+6UoS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41hSDCEIPoS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/51gqnKUwyJS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41Rm4+sPWrS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/41iGzNu+-LS._AC_SL1000_.jpg",
+                        "https://m.media-amazon.com/images/I/411kfOLoLXS._AC_SL1000_.jpg"
+                    ],
+                    "pageContent": {
+                        "header": "A great riflescope!",
+                        "paragraphs": [
+                            "paragraph1",
+                            "paragraph2",
+                            "paragraph3",
+                            "paragraph4"
+                        ],
+                        "closing": "closing here yall"
+                    },
+                    "affiliateLink": "https://www.amazon.com/dp/B0934RXGM2?&linkCode=ll1&tag=thermalrevi0d-20&linkId=73d4e0157b9d0d7c64209581b1c452a0&language=en_US&ref_=as_li_ss_tl"
+                },
+                {
+                    "id": 104,
+                    "brand": "Pulsar",
+                    "model": "Thermion XG50",
+                    "price": "$3,999.99",
+                    "bestSeller": true,
+                    "stats": {
+                        "microbolometerResolution": "640x480",
+                        "displayType": "AMOLED 1024X768",
+                        "objectiveLensInMM": 42,
+                        "frameRateHz": 50,
+                        "magnificationMin": 3,
+                        "magnificationMax": 24,
+                        "detectionRangeYrds": 2400,
+                        "windAndElevationAdjustmentRangeMOA": 103,
+                        "operatingTemperatureFMin": -13,
+                        "operatingTemperatureFMax": 122,
+                        "weightOZ": 31.75,
+                        "mount": "30mm Scope Rings",
+                        "waterproofRating": "IPX7"
+                    },
+                    "batteries": {
+                        "builtIn": true,
+                        "swappable": true,
+                        "type": "APS5",
+                        "runtime": "undefined",
+                        "numberOfBatteries": 2
+                    },
+                    "images": [
+                        "https://m.media-amazon.com/images/I/51IJHVNGZyS._AC_SL1000_.jpg", 
+                        "https://m.media-amazon.com/images/I/516aZRbAbVS._AC_SL1000_.jpg"
+                    ],
+                    "pageContent": {
+                        "header": "A great riflescope!",
+                        "paragraphs": [
+                            "paragraph1",
+                            "paragraph2",
+                            "paragraph3",
+                            "paragraph4"
+                        ],
+                        "closing": "closing here yall"
+                    },
+                    "affiliateLink": "https://www.amazon.com/Pulsar-Thermion-XG50-Thermal-Riflescope/dp/B08KVZ6JVD?crid=1AL3RWPCGJDR3&keywords=pulsar%2Bthermion%2Bxg50&qid=1675943549&s=sporting-goods&sprefix=pulsar%2Bthermion%2Bxg50%2Csporting%2C81&sr=1-4&th=1&linkCode=ll1&tag=thermalrevi0d-20&linkId=561e2beea69a07f7fd8145b415dc3611&language=en_US&ref_=as_li_ss_tl"
+                },
+                {
+                    "id": 105,
+                    "brand": "Pulsar",
+                    "model": "Thermion 2 LRF XP50 Pro",
+                    "price": "$8,520.62",
+                    "bestSeller": false,
+                    "stats": {
+                        "microbolometerResolution": "640x480",
+                        "displayType": "AMOLED 1024X768",
+                        "objectiveLensInMM": "undefined",
+                        "frameRateHz": 50,
+                        "magnificationMin": 2,
+                        "magnificationMax": 16,
+                        "detectionRangeYrds": 1968,
+                        "windAndElevationAdjustmentRangeMOA": "undefined",
+                        "operatingTemperatureFMin": -13,
+                        "operatingTemperatureFMax": 122,
+                        "weightOZ": 34,
+                        "mount": "30mm Scope Rings",
+                        "waterproofRating": "IPX7"
+                    },
+                    "batteries": {
+                        "builtIn": true,
+                        "swappable": true,
+                        "type": "APS5",
+                        "runtime": "undefined",
+                        "numberOfBatteries": 2
+                    },
+                    "images": [
+                        "https://m.media-amazon.com/images/I/61j3yUxx05L._AC_SL1500_.jpg", 
+                        "https://m.media-amazon.com/images/I/61IkOgjYTSL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/61CMU5VHTaL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/618m6A9QP6L._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/61AkGJrOEML._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/614Z-XlV75L._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/61-0j5DkckL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/61DlCGEZxwL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/61+fA2efkrL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/61a1HWoiTGL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/61dxlDN0z3L._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/61AYlpTEwIL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/614ZdEGk2EL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/618V2ilerkL._AC_SL1500_.jpg",
+                        "https://m.media-amazon.com/images/I/61qABAoHYEL._AC_SL1500_.jpg"
+                    ],
+                    "pageContent": {
+                        "header": "A great riflescope!",
+                        "paragraphs": [
+                            "paragraph1",
+                            "paragraph2",
+                            "paragraph3",
+                            "paragraph4"
+                        ],
+                        "closing": "closing here yall"
+                    },
+                    "affiliateLink": "https://www.amazon.com/Pulsar-Thermion-XP50-Thermal-Riflescope/dp/B09SBRQRCB?crid=2G5GBJ85E2ZBV&keywords=pulsar%2Bthermion%2Bxp50+pro&qid=1675943584&s=sporting-goods&sprefix=pulsar%2Bthermion%2Bxp50+pro%2Csporting%2C73&sr=1-5&linkCode=ll1&tag=thermalrevi0d-20&linkId=4ada87d70ffdec4b363ab2101ea1f5e2&language=en_US&ref_=as_li_ss_tl"
+                }
+            ],
+
+    "binoculars": [
+        {
+            "id": 200,
+            "brand": "Pulsar",
+            "model": "Merger LRF XP50",
+            "price": "$5,898.97",
+            "bestSeller": true,
+            "affiliateLink": "https://www.amazon.com/Pulsar-Thermal-Imaging-Binoculars-Merger/dp/B0B7CG8VVQ?crid=348RLFP29PRUR&keywords=pulsar+binoculars&qid=1675960914&s=sporting-goods&sprefix=pulsar+bino%2Csporting%2C103&sr=1-3&linkCode=ll1&tag=thermalrevi0d-20&linkId=522e475e4fe8730c4feb02c735eab6d8&language=en_US&ref_=as_li_ss_tl",
+            "stats": {
+                
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/61FaZNHhCeL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/617VANgiqWL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61XtcRslIPL._AC_SL1500_.jpg"
+            ],
+            "pageContent": {
+                "header": "A great riflescope!",
+                "paragraphs": [
+                    "paragraph1",
+                    "paragraph2",
+                    "paragraph3",
+                    "paragraph4"
+                ],
+                "closing": "closing here yall"
+            }
+        }
+    ],
+
+    "monoculars": [
+        {
+            "id": 300,
+            "brand": "AGM",
+            "model": "Asp-Micro TM160",
+            "price": "$439.00",
+            "bestSeller": true,
+            "affiliateLink": "https://www.amazon.com/AGM-Global-Vision-monocular-Surveillance160x120/dp/B08CRZZXDL?crid=2OW1QGFI41WIQ&keywords=thermal%2Bbinoculars&qid=1675958893&s=sporting-goods&sprefix=thermal%2Bbinoculars%2Csporting%2C90&sr=1-4&th=1&linkCode=ll1&tag=thermalrevi0d-20&linkId=669abcf767c30b44db1cca3e6df4f844&language=en_US&ref_=as_li_ss_tl",
+            "stats": {
+                "resolution": "160x120",
+                "frameRateHz": {
+                    "sensor": 25,
+                    "oled": 50
+                }, 
+                "lensFocalLength": "6.2mm",
+                "fieldOfView": "15.61° × 11.74°",
+                "display": "720×540, 0.2 inch, LCOS",
+                "storage": true,
+                "storageLimit": "8gb",
+                "weightGrams": 270 ,
+                "zoom": {
+                    "digital": {
+                        "minX": 1,
+                        "maxX": 8
+                    }
+                },
+                "detectionRangeYrds": 125
+            },
+            "images": [
+                "https://m.media-amazon.com/images/I/61toJTidUDS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/51V3a7xAMZS._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/61gBqk8AmVL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/31fEQHgsKIL._AC_.jpg",
+                "https://m.media-amazon.com/images/I/31RpHOg399L._AC_.jpg"
+            ],
+            "pageContent": {
+                "header": "A great riflescope!",
+                "paragraphs": [
+                    "paragraph1",
+                    "paragraph2",
+                    "paragraph3",
+                    "paragraph4"
+                ],
+                "closing": "closing here yall"
+            }
+        }
+    ]
+
+}

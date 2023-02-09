@@ -1,0 +1,8 @@
+{
+    "IPX7": {
+        "waterproof": true,
+        "maxDepthFeet": 3,
+        "maxSubmergeTimeMin": 30,
+        "ratingDescription": "IPX7 waterproof ratings ensure protection from heavy rain, snow, and other precipitation. All devices with this rating survived tests involving submerging the product in 3 feet of water for up to 30 minutes!"
+    }
+}

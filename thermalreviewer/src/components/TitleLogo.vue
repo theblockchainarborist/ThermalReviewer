@@ -18,10 +18,20 @@ export default {
     width: 100%;
     height: fit-content;
     justify-content: center;
-    align-content: flex-start;
+    align-items: flex-end;
+    margin-top: 45px;
 }
 #title {
+    display: flex;
+    align-items: bottom;
     margin-top: 0px;
-    font-size: 40px;
+    font-size: 60px;
+    color: white;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    margin-bottom: 4px;
+    vertical-align: bottom;
+    line-height: 1;
+    z-index: 2;
+    text-align: center;
 }
 </style>
